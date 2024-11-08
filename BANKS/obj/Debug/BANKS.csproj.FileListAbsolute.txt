@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\TRAINING\BANKS\bin\Debug\BANKS.exe.config
+C:\Users\Administrator\Desktop\TRAINING\BANKS\bin\Debug\BANKS.exe
+C:\Users\Administrator\Desktop\TRAINING\BANKS\bin\Debug\BANKS.pdb
+C:\Users\Administrator\Desktop\TRAINING\BANKS\obj\Debug\BANKS.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\TRAINING\BANKS\obj\Debug\BANKS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TRAINING\BANKS\obj\Debug\BANKS.exe
+C:\Users\Administrator\Desktop\TRAINING\BANKS\obj\Debug\BANKS.pdb
